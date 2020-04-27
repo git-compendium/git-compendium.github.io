@@ -1,3 +1,8 @@
+---
+layout: post
+title: Git - Projektverwaltung für Entwickler und DevOps-Teams
+---
+
 ## Git
 
 ![Git](https://github.com/git-buch.png)
