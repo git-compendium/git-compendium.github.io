@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Git - Projektverwaltung für Entwickler und DevOps-Teams
 ---
 
