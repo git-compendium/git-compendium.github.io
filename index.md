@@ -15,4 +15,10 @@ Autoren: [Bernd Öggl](https://komplett.cc) (Hauptautor) und [Michael Kofler](ht
 
 ### Inhalt
 
-Git gehört zum unverzichtbaren Handwerkszeug aller IT-Profis und darf in keiner Toolbox fehlen. Dabei macht es keinen Unterschied, ob Sie Konfigurationsdateien versionieren wollen, an Open-Source-Projekten mitarbeiten oder im Team komplexe Anwendungen entwickeln: Git sorgt dafür, dass Sie den Überblick behalten. Daher lernen Sie hier nicht nur, wie Sie Änderungen einchecken und fremde Repositorien klonen, sondern erfahren, wie Git Ihnen den Arbeitsalltag leichter macht.
+Git gehört zum unverzichtbaren Handwerkszeug aller IT-Profis und darf in keiner
+Toolbox fehlen. Dabei macht es keinen Unterschied, ob Sie Konfigurationsdateien
+versionieren wollen, an Open-Source-Projekten mitarbeiten oder im Team komplexe
+Anwendungen entwickeln: Git sorgt dafür, dass Sie den Überblick behalten. Daher
+lernen Sie hier nicht nur, wie Sie Änderungen einchecken und fremde
+Repositorien klonen, sondern erfahren, wie Git Ihnen den Arbeitsalltag leichter
+macht.

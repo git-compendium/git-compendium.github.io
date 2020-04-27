@@ -1,1 +1,9 @@
+title: Git
+email: info@gitbuch.info
+description: >- # this means to ignore newlines until "baseurl:"
+  Projektverwaltung für Entwickler und DevOps-Teams
+github_username:  git-hub
+
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
