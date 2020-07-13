@@ -6,12 +6,12 @@ title: Git - Projektverwaltung für Entwickler und DevOps-Teams
 
 ![Git](https://github.com/git-buch.png)
 
-Erscheint: vorauss. im August 2020  
-Umfang: ca. 350 Seiten  
+Erscheint: Ende August 2020  
+Umfang: 416 Seiten  
 ISBN: 978-3-8362-7186-8  
-Preis: Euro 39,90 (in D inkl. MWSt.)
+Preis: Euro 39,90 (in D inkl. MWSt.)  
 
-Autoren: [Bernd Öggl](https://komplett.cc) (Hauptautor) und [Michael Kofler](https://kofler.info)
+Autoren: [Bernd Öggl](https://komplett.cc) und [Michael Kofler](https://kofler.info)
 
 ### Inhalt
 
@@ -22,3 +22,38 @@ Anwendungen entwickeln: Git sorgt dafür, dass Sie den Überblick behalten. Dahe
 lernen Sie hier nicht nur, wie Sie Änderungen einchecken und fremde
 Repositorien klonen, sondern erfahren, wie Git Ihnen den Arbeitsalltag leichter
 macht.
+
+* Git effektiv nutzen und sicher administrieren
+* Eigene Repositorien auf GitHub und GitLab einrichten
+* Best Practices und Troubleshooting für die Praxis
+
+### Jeder verwendet es, keiner versteht es …
+
+An Git geht im Entwickleralltag kein Weg vorbei. Viele Anwender können mit Git
+aber nur soweit umgehen, dass sie gerade einmal Commit, Pull und Push ausführen
+können. Auf kurz oder lang treten unweigerlich Probleme auf. Unverständliche
+Fehlermeldungen bringen Git-Anwender dann rasch zur Verzweiflung.
+
+In unserem Buch erklären wir Ihnen, wie Git wirklich funktioniert. Wir zeigen
+Ihnen anhand vieler Beispiele die effiziente Nutzung in der Praxis sowie
+gängige Arbeitstechniken. Dabei berücksichtigen wir, dass Git heute mehr ist
+als das gleichnamige Kommando. Erst im Zusammenspiel mit Plattformen wie GitLab
+oder GitHub entfaltet Git sein ganzes Potential.  Kapitelübersicht
+
+* Git in zehn Minuten: der Schnelleinstieg
+* Learning by Doing: Installation, Einrichtung, Authentifizierung, erste
+  Schritte mit und ohne GUI
+* Grundlagen: Repos, Commits, Branches, Merging, Rebasing, Stashing, Tags,
+  Interna
+* GitHub: Pull Requests, Actions, CI, Packages, CLI
+* GitLab: lokales Hosting, Pipelines, Web IDE
+* GitHub/GitLab-Alternativen: Bitbucket, Azure DevOps Services, Bonobo,
+  Gitolite
+* Arbeitstechniken: 2FA, Hooks, prägnante Commit Messages, Submodule + Subtrees
+* Workflows: Feature Branches, Pull/Merge Requests, Long Running Branches
+  (Gitflow), Trunk Based Development
+* Probleme und Lösungen: Fehlermeldungen, Single File Merge, Dateien aus Repo
+  entfernen
+* Kommandoreferenz
+
+
