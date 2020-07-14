@@ -13,6 +13,8 @@ Preis: Euro 39,90 (in D inkl. MWSt.)
 
 Autoren: [Bernd Öggl](https://komplett.cc) und [Michael Kofler](https://kofler.info)
 
+[Buchseite beim Rheinwerk Verlag](https://www.rheinwerk-verlag.de/git_4943/?GPP=kofler)
+
 ### Inhalt
 
 Git gehört zum unverzichtbaren Handwerkszeug aller IT-Profis und darf in keiner
@@ -38,7 +40,9 @@ In unserem Buch erklären wir Ihnen, wie Git wirklich funktioniert. Wir zeigen
 Ihnen anhand vieler Beispiele die effiziente Nutzung in der Praxis sowie
 gängige Arbeitstechniken. Dabei berücksichtigen wir, dass Git heute mehr ist
 als das gleichnamige Kommando. Erst im Zusammenspiel mit Plattformen wie GitLab
-oder GitHub entfaltet Git sein ganzes Potential.  Kapitelübersicht
+oder GitHub entfaltet Git sein ganzes Potential.  
+
+### Kapitelübersicht
 
 * Git in zehn Minuten: der Schnelleinstieg
 * Learning by Doing: Installation, Einrichtung, Authentifizierung, erste
@@ -56,4 +60,9 @@ oder GitHub entfaltet Git sein ganzes Potential.  Kapitelübersicht
   entfernen
 * Kommandoreferenz
 
+### Beispieldateien
+
+Zu diesem Buch gibt er einige Beispiel-Repositorys, die Sie hier finden:
+
+<https://github.com/git-buch>
 
