@@ -66,3 +66,10 @@ Zu diesem Buch gibt er einige Beispiel-Repositorys, die Sie hier finden:
 
 <https://github.com/git-buch>
 
+### Leseprobe und Errata
+
+Eine PDF mit Inhaltsverzeichnis und Vorwort finden Sie hier:
+
+<https://kofler.info/buecher/git>
+
+Demnächst wird es auf dieser Seite auch eine längere Leseprobe sowie eine Zusammenstellung aller Errata geben.
