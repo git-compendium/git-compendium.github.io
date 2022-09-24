@@ -1,75 +1,58 @@
 ---
-title: Git - Projektverwaltung für Entwickler und DevOps-Teams
+title: Git - Project Management for Developers and DevOps Teams
 ---
 
 ## Git
 
 ![Git](https://github.com/git-buch.png)
 
-Erscheint: Ende August 2020  
-Umfang: 416 Seiten  
-ISBN: 978-3-8362-7186-8  
-Preis: Euro 39,90 (in D inkl. MWSt.)  
+415 pp., paperback.  
+Flexible reference book format 7 x 10 in., perfect-bound.  
+Printed black and white on 60# offset paper from sustainable sources.  
+Reader-friendly serif font (TheAntiquaB 9.5 Pt.).  
+One-column layout.
 
-Autoren: [Bernd Öggl](https://komplett.cc) und [Michael Kofler](https://kofler.info)
+Authors: [Bernd Öggl](https://webman.at) and [Michael Kofler](https://kofler.info)
 
-[Buchseite beim Rheinwerk Verlag](https://www.rheinwerk-verlag.de/git_4943/?GPP=kofler)
+[Rheinwerk Publishing](https://www.rheinwerk-verlag.de/git-project-management-for-developers-and-devops-teams/)
 
-### Inhalt
+### Content
 
-Git gehört zum unverzichtbaren Handwerkszeug aller IT-Profis und darf in keiner
-Toolbox fehlen. Dabei macht es keinen Unterschied, ob Sie Konfigurationsdateien
-versionieren wollen, an Open-Source-Projekten mitarbeiten oder im Team komplexe
-Anwendungen entwickeln: Git sorgt dafür, dass Sie den Überblick behalten. Daher
-lernen Sie hier nicht nur, wie Sie Änderungen einchecken und fremde
-Repositorien klonen, sondern erfahren, wie Git Ihnen den Arbeitsalltag leichter
-macht.
+Get started with Git—today! Walk through installation and explore the variety
+of development environments available. Understand the concepts that underpin
+Git’s workflows, from branching to commits, and see how to use major platforms,
+like GitHub. Learn the ins and outs of working with Git for day-to-day
+development. Get your versioning under control!
 
-* Git effektiv nutzen und sicher administrieren
-* Eigene Repositorien auf GitHub und GitLab einrichten
-* Best Practices und Troubleshooting für die Praxis
+* Get hands-on practical experience with Git
+* Understand branches, commands, commits, workflows, and more
+* Learn to use GitHub, GitLab, and alternative Git platforms
 
-### Jeder verwendet es, keiner versteht es …
 
-An Git geht im Entwickleralltag kein Weg vorbei. Viele Anwender können mit Git
-aber nur soweit umgehen, dass sie gerade einmal Commit, Pull und Push ausführen
-können. Auf kurz oder lang treten unweigerlich Probleme auf. Unverständliche
-Fehlermeldungen bringen Git-Anwender dann rasch zur Verzweiflung.
+### In this book, you’ll learn about:
 
-In unserem Buch erklären wir Ihnen, wie Git wirklich funktioniert. Wir zeigen
-Ihnen anhand vieler Beispiele die effiziente Nutzung in der Praxis sowie
-gängige Arbeitstechniken. Dabei berücksichtigen wir, dass Git heute mehr ist
-als das gleichnamige Kommando. Erst im Zusammenspiel mit Plattformen wie GitLab
-oder GitHub entfaltet Git sein ganzes Potential.  
+* Installation and Setup
 
-### Kapitelübersicht
+* Install Git on your machine and explore the interfaces and development environments available: IntelliJ, VS Code, Atom, and more. Understand the interactions between Git and the command line.
+* Key Functionality
 
-* Git in zehn Minuten: der Schnelleinstieg
-* Learning by Doing: Installation, Einrichtung, Authentifizierung, erste
-  Schritte mit und ohne GUI
-* Grundlagen: Repos, Commits, Branches, Merging, Rebasing, Stashing, Tags,
-  Interna
-* GitHub: Pull Requests, Actions, CI, Packages, CLI
-* GitLab: lokales Hosting, Pipelines, Web IDE
-* GitHub/GitLab-Alternativen: Bitbucket, Azure DevOps Services, Bonobo,
-  Gitolite
-* Arbeitstechniken: 2FA, Hooks, prägnante Commit Messages, Submodule + Subtrees
-* Workflows: Feature Branches, Pull/Merge Requests, Long Running Branches
-  (Gitflow), Trunk Based Development
-* Probleme und Lösungen: Fehlermeldungen, Single File Merge, Dateien aus Repo
-  entfernen
-* Kommandoreferenz
+* Walk through the core functionality of Git and GitHub: repositories, commits, pushes and pulls, branches, merging, hooks, and the importance of properly written commit messages.
+* Best Practices and Troubleshooting
+* Get the most out of Git using best practices for managing Unix dotfiles, switching a project from SVN to Git, and more. Explore common error messages and learn how to avoid and rectify them.
 
-### Beispieldateien
+### Highlights include:
 
-Zu diesem Buch gibt er einige Beispiel-Repositorys, die Sie hier finden:
+* Installation
+* Development environments
+* Repositories
+* Commits
+* Branches
+* Merging
+* Hooks
+* GitHub
+* GitLab
+* Workflows
+* Best practices
+* Command reference
 
-<https://github.com/git-buch>
 
-### Leseprobe und Errata
-
-Eine PDF mit Inhaltsverzeichnis und Vorwort finden Sie hier:
-
-<https://kofler.info/buecher/git>
-
-Demnächst wird es auf dieser Seite auch eine längere Leseprobe sowie eine Zusammenstellung aller Errata geben.

@@ -1,8 +1,8 @@
 title: Git
-email: info@gitbuch.info
+email: info@git-compendium.info
 description: >- # this means to ignore newlines until "baseurl:"
-  Projektverwaltung für Entwickler und DevOps-Teams
-github_username:  git-hub
+  Project Management for Developers and DevOps Teams
+github_username:  git-compendium
 
 theme: jekyll-theme-hacker
 plugins:
